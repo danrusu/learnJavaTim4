@@ -21,12 +21,12 @@ public class Test {
         System.out.println("Name: " + developer.getName());
         System.out.println("Age: " + developer.getAge());
 
-/*        System.out.println("Changes!!!");
-        developer.name = "Bill Gates";
-        developer.age = 45;*/
+        System.out.println("Changes!!!");
+        developer.setName("Bill Gates");
+        developer.incrementAge();
 
-        System.out.println("Name: " + economist.getName());
-        System.out.println("Age: " + economist.getAge());
+        System.out.println("Name: " + developer.getName());
+        System.out.println("Age: " + developer.getAge());
     }
 
 }

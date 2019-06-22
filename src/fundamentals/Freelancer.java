@@ -30,4 +30,12 @@ public class Freelancer {
     public int getAge() {
         return age;
     }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public void incrementAge() {
+        this.age++;
+    }
 }
