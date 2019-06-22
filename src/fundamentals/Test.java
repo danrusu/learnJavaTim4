@@ -14,19 +14,23 @@ public class Test {
         Freelancer developer = new Freelancer("John Doe", 25);
         Freelancer economist = new Freelancer("Electra", 20);
 
+
 /*
         System.out.println(freelancer.getClass().getName());
         System.out.println(freelancer.getClass().getSimpleName());*/
 
-        System.out.println("Name: " + developer.getName());
-        System.out.println("Age: " + developer.getAge());
+        System.out.println(developer);
 
         System.out.println("Changes!!!");
         developer.setName("Bill Gates");
         developer.incrementAge();
 
-        System.out.println("Name: " + developer.getName());
-        System.out.println("Age: " + developer.getAge());
+        System.out.println(developer);
     }
+
+    /*public static void displayFreelancer(Freelancer developer) {
+        System.out.println("Name - " + developer.getName());
+        System.out.println("Age - " + developer.getAge());
+    }*/
 
 }

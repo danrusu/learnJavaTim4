@@ -31,11 +31,22 @@ public class Freelancer {
         return age;
     }
 
+    public void setAge(int age) {
+        this.age = age;
+    }
+
     public void setName(String name) {
         this.name = name;
     }
 
     public void incrementAge() {
         this.age++;
+    }
+
+    @Override
+    public String toString() {
+        return "Freelancer:"  +
+                "name='" + name + '\'' +
+                ", age=" + age;
     }
 }
