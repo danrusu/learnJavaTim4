@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="58f310c7-4ddf-4348-a9aa-b9dd3ead38a1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arrays/ArraysTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/ArraysTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,11 +13,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/arrays/ArraysTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-44">
-              <caret line="22" column="28" lean-forward="true" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+            <state relative-caret-position="31">
+              <caret line="28" column="33" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="33" />
               <folding>
                 <element signature="method#printArray#0;class#ArraysTest#0" />
                 <element signature="e#309#427#1" />
@@ -28,6 +27,28 @@
                 <element signature="e#644#672#1" />
                 <element signature="method#createArray#0;class#ArraysTest#0" />
                 <element signature="e#1499#1529#1" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/arrays/ArrayMinMax.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="56" column="45" selection-start-line="56" selection-start-column="45" selection-end-line="56" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/arrays/StringArrayTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="3" column="43" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
+              <folding>
+                <element signature="method#main#0;class#StringArrayTest#0" />
+                <element signature="e#493#667#1" />
               </folding>
             </state>
           </provider>
@@ -66,6 +87,7 @@
         <option value="$PROJECT_DIR$/src/homework_19_06_23/Employee.java" />
         <option value="$PROJECT_DIR$/src/arrays/StringArrayTest.java" />
         <option value="$PROJECT_DIR$/src/arrays/ArraysTest.java" />
+        <option value="$PROJECT_DIR$/src/arrays/ArrayMinMax.java" />
       </list>
     </option>
   </component>
@@ -111,7 +133,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561290391556" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561294430141" />
     <property name="extract.method.default.visibility" value="public" />
     <property name="last_opened_file_path" value="$USER_HOME$/_workspace" />
     <property name="project.structure.last.edited" value="Project" />
@@ -143,7 +165,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ArraysTest">
+  <component name="RunManager" selected="Application.ArrayMinMax">
+    <configuration name="ArrayMinMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.ArrayMinMax" />
+      <module name="learnJavaTim4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ArraysTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="arrays.ArraysTest" />
       <module name="learnJavaTim4" />
@@ -183,19 +218,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fundamentals.TestStrings" />
-      <module name="learnJavaTim4" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="fundamentals.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="UserAccount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="userAccount.UserAccount" />
       <module name="learnJavaTim4" />
@@ -211,11 +233,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayMinMax" />
         <item itemvalue="Application.ArraysTest" />
         <item itemvalue="Application.StringArrayTest" />
         <item itemvalue="Application.UserAccount" />
         <item itemvalue="Application.EmployeeTest" />
-        <item itemvalue="Application.TestStrings" />
       </list>
     </recent_temporary>
   </component>
@@ -272,13 +294,20 @@
       <option name="project" value="LOCAL" />
       <updated>1561283908126</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="fundamental exercises">
+      <created>1561290643221</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1561290643221</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="7" width="1288" height="680" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18892509" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18892509" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -288,7 +317,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.45255473" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.310219" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.50547445" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.43248177" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -499,15 +528,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/arrays/StringArrayTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="17" column="45" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
+        <state relative-caret-position="75">
+          <caret line="3" column="43" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
+          <folding>
+            <element signature="method#main#0;class#StringArrayTest#0" />
+            <element signature="e#493#667#1" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/arrays/ArraysTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-44">
-          <caret line="22" column="28" lean-forward="true" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+        <state relative-caret-position="31">
+          <caret line="28" column="33" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="33" />
           <folding>
             <element signature="method#printArray#0;class#ArraysTest#0" />
             <element signature="e#309#427#1" />
@@ -518,6 +551,13 @@
             <element signature="method#createArray#0;class#ArraysTest#0" />
             <element signature="e#1499#1529#1" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/arrays/ArrayMinMax.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="56" column="45" selection-start-line="56" selection-start-column="45" selection-end-line="56" selection-end-column="45" />
         </state>
       </provider>
     </entry>
