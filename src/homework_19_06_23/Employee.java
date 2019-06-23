@@ -67,6 +67,10 @@ public class Employee {
                 + name + ", "
                 + age + " years, "
                 + employeeSexString + ", works at "
-                + employer;
+                + employer
+                + ", salary: " + salary
+                + ", LEVEL: " + level;
+
+
     }
 }

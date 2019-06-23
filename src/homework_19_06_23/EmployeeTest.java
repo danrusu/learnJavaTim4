@@ -13,8 +13,19 @@ public class EmployeeTest {
         System.out.println(itEmployee);
         System.out.println(hrEmployee);
 
+        System.out.println("Set salaries!!!");
         itEmployee.setSalary(10000.5);
         hrEmployee.setSalary(7000);
+        System.out.println(itEmployee);
+        System.out.println(hrEmployee);
+
+        System.out.println("Set levels!!!");
+        itEmployee.setLevel("JUNIOR");
+        hrEmployee.setLevel("SENIOR");
+        System.out.println(itEmployee);
+        System.out.println(hrEmployee);
+
+
 
         // print "IT salary is 10000 RON"
         System.out.println("IT salary is " + (int)itEmployee.getSalary() + " RON");
