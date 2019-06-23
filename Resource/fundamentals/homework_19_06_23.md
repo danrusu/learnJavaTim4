@@ -35,5 +35,5 @@ Employee: Carmen, 25 years, female, works at Visma
 
 6. Create a method that returns if an Employee is JUNIOR.
 
-7. Create a test in a separate class that tests all the requirements from above.
+7. Create a test in a separate class for all the requirements from above.
 
