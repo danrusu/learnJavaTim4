@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="58f310c7-4ddf-4348-a9aa-b9dd3ead38a1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fundamentals/Freelancer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fundamentals/Freelancer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fundamentals/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fundamentals/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resource/homework_19_06_23.md" beforeDir="false" afterPath="$PROJECT_DIR$/Resource/fundamentals/homework_19_06_23.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,11 +36,53 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Resource/homework_19_06_23.md">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Resource/fundamentals/strings_exercices.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-275">
+              <first_editor relative-caret-position="25">
+                <caret line="19" selection-start-line="19" selection-end-line="19" />
+              </first_editor>
+              <second_editor>
+                <markdownNavigatorState />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Resource/fundamentals/array_exercices.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="306">
+                <caret line="28" column="32" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
+              </first_editor>
+              <second_editor>
+                <markdownNavigatorState />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Resource/fundamentals/switch_exercices.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor>
+                <caret column="22" selection-start-column="22" selection-end-column="22" />
+              </first_editor>
+              <second_editor>
+                <markdownNavigatorState />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Resource/fundamentals/homework_19_06_23.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="25">
                 <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
               </first_editor>
               <second_editor>
@@ -93,6 +134,9 @@
         <option value="$PROJECT_DIR$/src/fundamentals/TestStrings.java" />
         <option value="$PROJECT_DIR$/Resource/homework_19_06_22.md" />
         <option value="$PROJECT_DIR$/Resource/homework_19_06_23.md" />
+        <option value="$PROJECT_DIR$/Resource/strings_exercices.md" />
+        <option value="$PROJECT_DIR$/Resource/fundamentals/array_exercices.md" />
+        <option value="$PROJECT_DIR$/Resource/fundamentals/switch_exercices.md" />
       </list>
     </option>
   </component>
@@ -110,6 +154,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -121,6 +166,12 @@
               <item name="learnJavaTim4" type="b2602c69:ProjectViewProjectNode" />
               <item name="learnJavaTim4" type="462c0819:PsiDirectoryNode" />
               <item name="Resource" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnJavaTim4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnJavaTim4" type="462c0819:PsiDirectoryNode" />
+              <item name="Resource" type="462c0819:PsiDirectoryNode" />
+              <item name="fundamentals" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="learnJavaTim4" type="b2602c69:ProjectViewProjectNode" />
@@ -137,13 +188,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561212271048" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561267417125" />
     <property name="extract.method.default.visibility" value="public" />
     <property name="last_opened_file_path" value="$USER_HOME$/_workspace" />
     <property name="project.structure.last.edited" value="Project" />
@@ -152,8 +202,15 @@
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\_work\learnJavaTim4\Resource\fundamentals" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="fundamentals" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\_work\learnJavaTim4\Resource\fundamentals" />
+      <recent name="C:\_work\learnJavaTim4\Resource" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -269,7 +326,7 @@
     <frame x="-8" y="6" width="1288" height="680" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19136807" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19462541" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -385,6 +442,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Resource/fundamentals/homework_19_06_23.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="25">
+            <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/fundamentals/TestStrings.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="258">
@@ -392,11 +461,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Resource/homework_19_06_23.md">
+    <entry file="file://$PROJECT_DIR$/Resource/fundamentals/strings_exercices.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-275">
-            <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+          <first_editor relative-caret-position="25">
+            <caret line="19" selection-start-line="19" selection-end-line="19" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resource/fundamentals/array_exercices.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="306">
+            <caret line="28" column="32" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resource/fundamentals/switch_exercices.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="22" selection-start-column="22" selection-end-column="22" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
