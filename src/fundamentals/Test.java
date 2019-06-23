@@ -11,7 +11,10 @@ public class Test {
 */
 
         // instance fields
-        Freelancer developer = new Freelancer("John Doe", 25);
+        String johnDoeName = "John Doe";
+        int johnDoeAge = 25;
+        Freelancer developer = new Freelancer(johnDoeName, johnDoeAge);
+
         Freelancer economist = new Freelancer("Electra", 20);
 
 
