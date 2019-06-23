@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="58f310c7-4ddf-4348-a9aa-b9dd3ead38a1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrays/ArraysTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/ArraysTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,31 +14,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/arrays/ArraysTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="122">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/arrays/StringArrayTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="17" column="45" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/homework_19_06_23/Employee.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-50">
-              <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+            <state relative-caret-position="-44">
+              <caret line="22" column="28" lean-forward="true" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
               <folding>
-                <element signature="method#Employee#0;class#Employee#0" />
+                <element signature="method#printArray#0;class#ArraysTest#0" />
+                <element signature="e#309#427#1" />
+                <element signature="method#printArray#1;class#ArraysTest#0" />
+                <element signature="e#818#931#1" />
+                <element signature="method#sumOfArray#0;class#ArraysTest#0" />
+                <element signature="e#644#672#1" />
+                <element signature="method#createArray#0;class#ArraysTest#0" />
+                <element signature="e#1499#1529#1" />
               </folding>
             </state>
           </provider>
@@ -74,8 +64,8 @@
         <option value="$PROJECT_DIR$/src/userAccount/UserAccountTest.java" />
         <option value="$PROJECT_DIR$/src/userAccount/UserAccount.java" />
         <option value="$PROJECT_DIR$/src/homework_19_06_23/Employee.java" />
-        <option value="$PROJECT_DIR$/src/arrays/ArraysTest.java" />
         <option value="$PROJECT_DIR$/src/arrays/StringArrayTest.java" />
+        <option value="$PROJECT_DIR$/src/arrays/ArraysTest.java" />
       </list>
     </option>
   </component>
@@ -121,7 +111,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561283475795" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561290391556" />
     <property name="extract.method.default.visibility" value="public" />
     <property name="last_opened_file_path" value="$USER_HOME$/_workspace" />
     <property name="project.structure.last.edited" value="Project" />
@@ -130,15 +120,15 @@
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\_work\learnJavaTim4\Resource\fundamentals" />
+      <recent name="C:\_work\learnJavaTim4\Resource" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="fundamentals" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\_work\learnJavaTim4\Resource\fundamentals" />
-      <recent name="C:\_work\learnJavaTim4\Resource" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -153,7 +143,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StringArrayTest">
+  <component name="RunManager" selected="Application.ArraysTest">
     <configuration name="ArraysTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="arrays.ArraysTest" />
       <module name="learnJavaTim4" />
@@ -221,8 +211,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StringArrayTest" />
         <item itemvalue="Application.ArraysTest" />
+        <item itemvalue="Application.StringArrayTest" />
         <item itemvalue="Application.UserAccount" />
         <item itemvalue="Application.EmployeeTest" />
         <item itemvalue="Application.TestStrings" />
@@ -275,14 +265,20 @@
       <option name="project" value="LOCAL" />
       <updated>1561276268884</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="fundamental exercises">
+      <created>1561283908126</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1561283908126</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="7" width="1288" height="680" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18892509" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18892509" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -292,7 +288,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.45255473" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.47445256" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.310219" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.43248177" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -362,12 +358,6 @@
           <line>12</line>
           <properties />
           <option name="timeStamp" value="13" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/arrays/ArraysTest.java</url>
-          <line>18</line>
-          <properties />
-          <option name="timeStamp" value="20" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -507,17 +497,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/arrays/ArraysTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/arrays/StringArrayTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="17" column="45" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/arrays/ArraysTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-44">
+          <caret line="22" column="28" lean-forward="true" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+          <folding>
+            <element signature="method#printArray#0;class#ArraysTest#0" />
+            <element signature="e#309#427#1" />
+            <element signature="method#printArray#1;class#ArraysTest#0" />
+            <element signature="e#818#931#1" />
+            <element signature="method#sumOfArray#0;class#ArraysTest#0" />
+            <element signature="e#644#672#1" />
+            <element signature="method#createArray#0;class#ArraysTest#0" />
+            <element signature="e#1499#1529#1" />
+          </folding>
         </state>
       </provider>
     </entry>
