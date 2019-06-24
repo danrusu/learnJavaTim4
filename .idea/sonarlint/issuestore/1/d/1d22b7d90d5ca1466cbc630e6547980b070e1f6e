@@ -1,9 +1,9 @@
 
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(éšé•üÿÿÿÿ8½˜Şğ·-
+Œ"squid:ClassVariableVisibilityCheck"XMake messageField a static final constant or non-public and provide accessors if needed.(²üº=8ãøñ·-
 V
 squid:S106"9Replace this use of System.out or System.err by a logger.(ù¾ÿë8ßÔ…ñ·-
 [
 squid:S106"9Replace this use of System.out or System.err by a logger.(Ï¹åşÿÿÿÿ8ç¹†õ·-
-[
-squid:S106"9Replace this use of System.out or System.err by a logger.(éšé•üÿÿÿÿ8½˜Şğ·-
-Œ"squid:ClassVariableVisibilityCheck"XMake messageField a static final constant or non-public and provide accessors if needed.(²üº=8ãøñ·-
 Osquid:S1444"2Make this "public static messageField" field final(²üº=8ãøñ·-

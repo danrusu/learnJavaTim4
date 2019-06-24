@@ -1,12 +1,12 @@
 
-nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(€î‡Õýÿÿÿÿ8ãä€ó·-
+nsquid:CommentedOutCodeLine""<This block of commented-out lines of code should be removed.(×¹º­üÿÿÿÿ8Ú”þ“¸-
+[squid:S1854"=Remove this useless assignment to local variable "economist".(àç¢×8Û”þ“¸-
 [
-squid:S106"9Replace this use of System.out or System.err by a logger.(ûÚ×þÿÿÿÿ8Ì“õ·-
+squid:S106"9Replace this use of System.out or System.err by a logger.(­õ¶žÿÿÿÿÿ8Û”þ“¸-
 [
-squid:S106"9Replace this use of System.out or System.err by a logger.(ûÚ×þÿÿÿÿ8ƒº€ó·-
+squid:S106"9Replace this use of System.out or System.err by a logger.(ûÚ×þÿÿÿÿ8ƒº€ó·-
 isquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(éªèí8´¨ªô·-
-nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(×¹º­üÿÿÿÿ8Ú”þ“¸-
 [
-squid:S106"9Replace this use of System.out or System.err by a logger.(­õ¶žÿÿÿÿÿ8Û”þ“¸-
-Lsquid:S1481".Remove this unused "economist" local variable.(àç¢×8Û”þ“¸-
-[squid:S1854"=Remove this useless assignment to local variable "economist".(àç¢×8Û”þ“¸-
+squid:S106"9Replace this use of System.out or System.err by a logger.(ûÚ×þÿÿÿÿ8Ì“õ·-
+Lsquid:S1481".Remove this unused "economist" local variable.(àç¢×8Û”þ“¸-
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(€î‡Õýÿÿÿÿ8ãä€ó·-

@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58f310c7-4ddf-4348-a9aa-b9dd3ead38a1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/d/1d22b7d90d5ca1466cbc630e6547980b070e1f6e" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/d/1d22b7d90d5ca1466cbc630e6547980b070e1f6e" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/5/35e6b058d6955fa2b64549c972c8b383ad6e4da5" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/5/35e6b058d6955fa2b64549c972c8b383ad6e4da5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/7/778b7fd34bae1abf5959db886c3754d2964c8ed9" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/7/778b7fd34bae1abf5959db886c3754d2964c8ed9" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resource/fundamentals/array_exercices.md" beforeDir="false" afterPath="$PROJECT_DIR$/Resource/fundamentals/array_homework1.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,42 +19,43 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/arrays/ArraysTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="31">
-              <caret line="28" column="33" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="33" />
-              <folding>
-                <element signature="method#printArray#0;class#ArraysTest#0" />
-                <element signature="e#309#427#1" />
-                <element signature="method#printArray#1;class#ArraysTest#0" />
-                <element signature="e#818#931#1" />
-                <element signature="method#sumOfArray#0;class#ArraysTest#0" />
-                <element signature="e#644#672#1" />
-                <element signature="method#createArray#0;class#ArraysTest#0" />
-                <element signature="e#1499#1529#1" />
-              </folding>
+        <entry file="file://$PROJECT_DIR$/Resource/fundamentals/array_homework2.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor>
+                <caret column="16" selection-start-column="16" selection-end-column="16" />
+              </first_editor>
+              <second_editor>
+                <markdownNavigatorState />
+              </second_editor>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/arrays/ArrayMinMax.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="56" column="45" selection-start-line="56" selection-start-column="45" selection-end-line="56" selection-end-column="45" />
+        <entry file="file://$PROJECT_DIR$/Resource/fundamentals/class_homework1.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="406">
+                <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+              </first_editor>
+              <second_editor>
+                <markdownNavigatorState />
+              </second_editor>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/arrays/StringArrayTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="3" column="43" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
-              <folding>
-                <element signature="method#main#0;class#StringArrayTest#0" />
-                <element signature="e#493#667#1" />
-              </folding>
+        <entry file="file://$PROJECT_DIR$/Resource/fundamentals/array_homework1.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="50">
+                <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+              </first_editor>
+              <second_editor>
+                <markdownNavigatorState />
+              </second_editor>
             </state>
           </provider>
         </entry>
@@ -88,12 +94,15 @@
         <option value="$PROJECT_DIR$/src/arrays/StringArrayTest.java" />
         <option value="$PROJECT_DIR$/src/arrays/ArraysTest.java" />
         <option value="$PROJECT_DIR$/src/arrays/ArrayMinMax.java" />
+        <option value="$PROJECT_DIR$/Resource/fundamentals/array_homework2.md" />
+        <option value="$PROJECT_DIR$/Resource/fundamentals/array_homework1.md" />
+        <option value="$PROJECT_DIR$/Resource/fundamentals/class_homework1.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-11" />
-    <option name="y" value="10" />
+    <option name="x" value="-12" />
+    <option name="y" value="9" />
     <option name="width" value="1932" />
     <option name="height" value="1020" />
   </component>
@@ -105,7 +114,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -113,6 +121,17 @@
             <path>
               <item name="learnJavaTim4" type="b2602c69:ProjectViewProjectNode" />
               <item name="learnJavaTim4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnJavaTim4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnJavaTim4" type="462c0819:PsiDirectoryNode" />
+              <item name="Resource" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnJavaTim4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnJavaTim4" type="462c0819:PsiDirectoryNode" />
+              <item name="Resource" type="462c0819:PsiDirectoryNode" />
+              <item name="fundamentals" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="learnJavaTim4" type="b2602c69:ProjectViewProjectNode" />
@@ -129,11 +148,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561294430141" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561412672622" />
     <property name="extract.method.default.visibility" value="public" />
     <property name="last_opened_file_path" value="$USER_HOME$/_workspace" />
     <property name="project.structure.last.edited" value="Project" />
@@ -142,15 +162,15 @@
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\_work\learnJavaTim4\Resource\fundamentals" />
-      <recent name="C:\_work\learnJavaTim4\Resource" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="fundamentals" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\_work\learnJavaTim4\Resource\fundamentals" />
+      <recent name="C:\_work\learnJavaTim4\Resource" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -301,13 +321,21 @@
       <option name="project" value="LOCAL" />
       <updated>1561290643221</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="fundamental exercises">
+      <created>1561294676808</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1561294676808</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="7" width="1288" height="680" extended-state="0" />
+    <frame x="-8" y="6" width="1288" height="680" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18892509" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2043974" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -317,7 +345,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.45255473" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.50547445" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.50547445" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.43248177" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -424,18 +452,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Resource/fundamentals/array_exercices.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="700">
-            <caret line="28" column="32" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Resource/fundamentals/homework_19_06_23.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
@@ -526,6 +542,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/arrays/ArraysTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="28" column="33" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="33" />
+          <folding>
+            <element signature="method#printArray#0;class#ArraysTest#0" />
+            <element signature="method#printArray#1;class#ArraysTest#0" />
+            <element signature="method#sumOfArray#0;class#ArraysTest#0" />
+            <element signature="method#createArray#0;class#ArraysTest#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/arrays/StringArrayTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -537,27 +566,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/arrays/ArraysTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="31">
-          <caret line="28" column="33" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="33" />
-          <folding>
-            <element signature="method#printArray#0;class#ArraysTest#0" />
-            <element signature="e#309#427#1" />
-            <element signature="method#printArray#1;class#ArraysTest#0" />
-            <element signature="e#818#931#1" />
-            <element signature="method#sumOfArray#0;class#ArraysTest#0" />
-            <element signature="e#644#672#1" />
-            <element signature="method#createArray#0;class#ArraysTest#0" />
-            <element signature="e#1499#1529#1" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/arrays/ArrayMinMax.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="56" column="45" selection-start-line="56" selection-start-column="45" selection-end-line="56" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resource/fundamentals/array_homework2.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="16" selection-start-column="16" selection-end-column="16" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resource/fundamentals/array_homework1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="50">
+            <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resource/fundamentals/class_homework1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="406">
+            <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
         </state>
       </provider>
     </entry>

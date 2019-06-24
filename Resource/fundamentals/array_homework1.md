@@ -1,7 +1,7 @@
-### Exercises – arrays
+### Homework – Arrays 1
 
 
-#### Task
+#### Tasks
 
 1. Create an array that holds the following numbers
 

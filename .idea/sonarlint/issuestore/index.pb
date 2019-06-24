@@ -15,3 +15,19 @@ Z
 *Resource/fundamentals/homework_19_06_23.md,9\b\9b08d60ca224dd11c68442a5c6e8ec91c13a5d6b
 Y
 )Resource/fundamentals/switch_exercices.md,3\8\3881ae5573411954657a8c74e57b870d8037e896
+S
+#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
+W
+'src/homework_19_06_23/EmployeeTest.java,e\1\e16d82d0328b23a23f337faeaa2da8fb91e1535c
+S
+#src/homework_19_06_23/Employee.java,c\2\c28a12dafe132e120e4195ecc9ce7b7478923905
+P
+ src/userAccount/UserAccount.java,c\9\c908f9d99678540c89e430904332e917efb848fd
+T
+$src/userAccount/UserAccountTest.java,2\6\2674c341435167c4816ae208bf755c778849b6d1
+O
+src/arrays/StringArrayTest.java,d\1\d1ba76969b60dd170eb00f7964f18f8da8373334
+J
+src/arrays/ArraysTest.java,8\5\85a7214a258b3395fb3e17fab69a5c4619c48223
+K
+src/arrays/ArrayMinMax.java,6\c\6c83fd65594d3af303af7d632b21aee143d001d4

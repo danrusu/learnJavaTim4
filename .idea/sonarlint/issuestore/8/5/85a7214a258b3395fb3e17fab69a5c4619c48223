@@ -1,0 +1,15 @@
+
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(¶¨…İıÿÿÿÿ8É²‰¡¸-
+[
+squid:S106'"9Replace this use of System.out or System.err by a logger.(õ–Ğûÿÿÿÿÿ8îÙÂ ¸-
+[
+squid:S106 "9Replace this use of System.out or System.err by a logger.(˜¹şõùÿÿÿÿ8‰ÌÇŸ¸-
+]squid:UselessImportCheck"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8„î÷¸-
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Šœø‹8²³ó ¸-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(¿ÿ³üúÿÿÿÿ8ù™¶ ¸-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(åå°²ùÿÿÿÿ8¡ĞõŸ¸-
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¾ı€8æÑŸ¸-
+isquid:CommentedOutCodeLine&"<This block of commented-out lines of code should be removed.(¾ı€8îÙÂ ¸-
