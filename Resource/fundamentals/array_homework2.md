@@ -45,7 +45,7 @@ We are coding daily to become better developers
 
 3. Write a method named `range` that receives two numbers, `number1`, `number2`
 and generates an array of all integer values from `number1` to `number2`.
-Print the arrays for calling the function for:
+Print the arrays (with a `print` function) for calling the function for:
 - number1 = 3, number2 = 9
 ```
 //Expected console result
@@ -59,12 +59,16 @@ Print the arrays for calling the function for:
 
 4. Write `createMirrorArray` method that receives an integer
 `number` and returns an array as in the following example.
-Print returned array for `createMirrorArray(-5)` and createMirrorArray(4)
-```
-System.out.println(createMirrorArray(-5));
-// should print: -5 -4 -3 -2 -1 1 2 3 4 5
+Print returned array for `createMirrorArray(-5)` and createMirrorArray(4). If number is 0 return an empty array.
 
-System.out.println(createMirrorArray(3));
-// should print: -3 -2 -1 1 2 3
+Use `print` method created at task #3.
+```
+print(createMirrorArray(-5));
+print(createMirrorArray(0));
+print(createMirrorArray(3));
+// should print:
+-5 -4 -3 -2 -1 1 2 3 4 5
+
+-3 -2 -1 1 2 3
 ```
 
