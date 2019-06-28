@@ -1,4 +1,4 @@
-package fundamentals;
+package fundamentals.oop;
 
 // Default constructor & default field values example
 public class TestObject {

@@ -1,4 +1,4 @@
-package userAccount;
+package fundamentals.oop.userAccount;
 
 public class UserAccountTest {
     public static void main(String[] args) {

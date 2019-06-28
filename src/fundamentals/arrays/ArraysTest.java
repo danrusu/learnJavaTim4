@@ -1,6 +1,4 @@
-package arrays;
-
-import java.util.Arrays;
+package fundamentals.arrays;
 
 public class ArraysTest {
 

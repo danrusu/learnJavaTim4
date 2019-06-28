@@ -1,6 +1,6 @@
 package homework_19_06_23;
 
-import fundamentals.Freelancer;
+import fundamentals.oop.Freelancer;
 
 public class Employee {
 

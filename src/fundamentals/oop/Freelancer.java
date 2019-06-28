@@ -1,4 +1,4 @@
-package fundamentals;
+package fundamentals.oop;
 
 /* Static vs. Instance
 

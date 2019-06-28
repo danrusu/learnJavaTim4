@@ -1,4 +1,4 @@
-package arrays;
+package fundamentals.arrays;
 
 public class ArrayMinMax {
 

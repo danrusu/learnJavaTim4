@@ -1,4 +1,4 @@
-package userAccount;
+package fundamentals.oop.userAccount;
 
 /*
 
@@ -11,7 +11,6 @@ Credit - double
 
 ID - number - is generated
  */
-
 public class UserAccount {
     private String firstName;
     private String lastName;

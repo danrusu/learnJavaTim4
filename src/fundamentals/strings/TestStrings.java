@@ -1,4 +1,4 @@
-package fundamentals;
+package fundamentals.strings;
 
 // String is immutable!!!
 // String methods return new strings rather than modifying the actual string value.

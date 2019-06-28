@@ -1,4 +1,4 @@
-package fundamentals;
+package fundamentals.oop;
 
 // Assumption: 4 weeks of learning Java Fundamentals
 public class JuniorJavaDeveloper {
