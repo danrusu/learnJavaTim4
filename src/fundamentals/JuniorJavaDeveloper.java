@@ -1,8 +1,9 @@
-package com.nagarro.driven.client.rest.assured.impl;
+package fundamentals;
 
-//Assumption: 4 weeks of learning Java Fundamentals
+// Assumption: 4 weeks of learning Java Fundamentals
 public class JuniorJavaDeveloper {
 
+    // class field
     static int javaLevel = 0;
 
     public static void dailyLearning(int hours) {
@@ -51,7 +52,7 @@ public class JuniorJavaDeveloper {
             javaLevel += 10;
         }
 
-        System.out.println("\nFinal scoring: " + JuniorJavaDeveloper.javaLevel);
+        System.out.println("\nFinal java level: " + JuniorJavaDeveloper.javaLevel);
     }
 
 }

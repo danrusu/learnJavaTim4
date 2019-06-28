@@ -1,10 +1,26 @@
 package fundamentals;
 
+// Default constructor & default field values example
 public class TestObject {
 
-    public static void main(String[] args) {
-        Freelancer unemployed = new Freelancer("Dan", 38);
+    String text;
+    int count;
+    boolean isGood;
 
-        System.out.println(unemployed);
+    public static void main(String[] args) {
+        // if a class does not define any constructor,
+        // a default constructor is provided
+        TestObject testObject = new TestObject();
+
+        System.out.println(testObject);
+    }
+
+    @Override
+    public String toString() {
+        return "TestObject{" +
+                "text='" + text + '\'' +
+                ", count=" + count +
+                ", isGood=" + isGood +
+                '}';
     }
 }
