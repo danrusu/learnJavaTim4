@@ -1,39 +1,32 @@
-package fundamentals;
+package fundamentals.oop;
 
-public class Test {
+public class FreelancerTest {
 
     public static void main(String[] args) {
 
         // static members
-/*
         System.out.println(Freelancer.messageField);
         Freelancer.message();
-*/
 
-        // instance fields
+        // local variables
         String johnDoeName = "John Doe";
         int johnDoeAge = 25;
+
         Freelancer developer = new Freelancer(johnDoeName, johnDoeAge);
 
         Freelancer economist = new Freelancer("Electra", 20);
 
+        // get instance class full and simple names
+        System.out.println("\neconomist full class name: " + economist.getClass().getName());
+        System.out.println("economist simple class name: " + economist.getClass().getSimpleName());
 
-/*
-        System.out.println(freelancer.getClass().getName());
-        System.out.println(freelancer.getClass().getSimpleName());*/
-
-        System.out.println(developer);
-
+        System.out.println();
+        System.out.println(developer); // calls developer.toString() implicitly
         System.out.println("Changes!!!");
         developer.setName("Bill Gates");
         developer.incrementAge();
 
         System.out.println(developer);
     }
-
-    /*public static void displayFreelancer(Freelancer developer) {
-        System.out.println("Name - " + developer.getName());
-        System.out.println("Age - " + developer.getAge());
-    }*/
 
 }

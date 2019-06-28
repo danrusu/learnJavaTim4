@@ -1,8 +1,9 @@
 package homework_19_06_23;
 
-import fundamentals.Freelancer;
+import fundamentals.oop.Freelancer;
 
 public class Employee {
+
     private Freelancer freelancer;
 
     private String name;
@@ -70,7 +71,5 @@ public class Employee {
                 + employer
                 + ", salary: " + salary
                 + ", LEVEL: " + level;
-
-
     }
 }
