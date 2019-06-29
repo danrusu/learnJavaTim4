@@ -5,11 +5,18 @@ package homework_19_06_29;
 public class ArrayHomework2Task3 {
 
     public static void main(String[] args) {
+        print(range(3, 3));
+
         print(range(3, 9));
-        print(range(7, -2));
+        print(range(9, 3));
+
+        print(range(-7, -2));
+        print(range(-2, -7));
     }
 
     public static int[] range(int number1, int number2){
+        // closed range from [0, 5] (inclusive) we have 6 numbers
+        // closed range from [3, 9] (inclusive) we have 9-3+1 numbers
 
         int rangeLength = Math.abs(number1 - number2) + 1;
 

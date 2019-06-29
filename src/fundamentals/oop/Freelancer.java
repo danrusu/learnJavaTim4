@@ -17,6 +17,10 @@ System.out.println(developer.getName());
 // By default all classes extend the java.lang.Object base class.
 public class Freelancer {
 
+    private Freelancer strangeObject = new Freelancer(
+            "Xman",
+            500);
+
     // instance fields
     // private, accessible via getters
     private String name;
