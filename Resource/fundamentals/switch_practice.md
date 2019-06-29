@@ -1,4 +1,4 @@
-### Exercises – switch
+### Switch practice
 
 
 #### Task
