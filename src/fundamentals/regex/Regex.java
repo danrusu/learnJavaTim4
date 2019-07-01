@@ -19,9 +19,6 @@ public class Regex {
 
         System.out.println(testPhone.replaceAll(phoneSentenceMatcher, "$1"));
 
-
-
-
         String text = "This is my email: danginkgo@yahoo.com. " +
                 "Send me an email or call me at 0720-060897.";
 
